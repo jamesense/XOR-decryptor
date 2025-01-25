@@ -1,10 +1,10 @@
-Setup:
-pip install nltk
+Setup:  
+pip install nltk  
 
-Before running the file, open up a python interpreter and run:
+Before running the file, open up a python interpreter and run:  
 
-import nltk
-nltk.download('words')
+import nltk  
+nltk.download('words')  
 
-Run the file,
-Enjoy.
+Run the file,  
+Enjoy.  
